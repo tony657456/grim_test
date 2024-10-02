@@ -123,7 +123,7 @@ BOOL CMoveCircleDlg::OnInitDialog()
 	// 높이가 너비보다 작으니까 높이의 나누기 2값을 
 	// 넘어가지 않는 선에서 반지름 생성
 	// m_nRadius = rand() % (CDlgheight / 2);
-	MoveWindow(0, 0, 680, 680);
+	MoveWindow(0, 0, 900, 500);
 	m_pDlgImage = new CDlgImage;
 	m_pDlgImage->Create(IDD_CDlgImage, this);
 	m_pDlgImage->ShowWindow(SW_SHOW);
