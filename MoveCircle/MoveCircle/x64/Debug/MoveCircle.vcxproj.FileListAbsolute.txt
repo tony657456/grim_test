@@ -1,0 +1,2 @@
+C:\MFC_Projects\MoveCircle\MoveCircle\x64\Debug\MoveCircle.exe
+C:\GRIM_TEST\MoveCircle\MoveCircle\x64\Debug\MoveCircle.exe
