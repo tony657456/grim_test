@@ -16,6 +16,7 @@
 #define IDC_BTN_ACTION                  1009
 #define IDC_BTN_OPEN                    1010
 #define IDC_BTN_CLEAR                   1011
+#define IDC_GROUP_BOX                   1012
 
 // Next default values for new objects
 // 
@@ -23,7 +24,7 @@
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        131
 #define _APS_NEXT_COMMAND_VALUE         32771
-#define _APS_NEXT_CONTROL_VALUE         1011
+#define _APS_NEXT_CONTROL_VALUE         1013
 #define _APS_NEXT_SYMED_VALUE           104
 #endif
 #endif

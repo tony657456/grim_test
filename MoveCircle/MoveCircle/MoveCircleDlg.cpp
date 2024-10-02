@@ -128,7 +128,7 @@ BOOL CMoveCircleDlg::OnInitDialog()
 	m_pDlgImage->Create(IDD_CDlgImage, this);
 	m_pDlgImage->ShowWindow(SW_SHOW);
 	m_pDlgImage->MoveWindow(0, 0, CDlgwidth, CDlgheight);
-	
+	CWnd* pGroupBox = GetDlgItem(IDC_GROUP_BOX);
 
 	return TRUE;  // 포커스를 컨트롤에 설정하지 않으면 TRUE를 반환합니다.
 }
